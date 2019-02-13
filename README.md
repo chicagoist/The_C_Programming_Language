@@ -1,3 +1,6 @@
+#The C Programming Language.
+#ANSI C
+
 :~$gcc -ansi ansi.c
 :~$ls
 :~$a.out
